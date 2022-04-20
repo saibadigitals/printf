@@ -416,12 +416,12 @@ Output:
 
 ## More Examples :thumbsup:
 
-To print the address of Holberton School in the format "972 Mission St., San
+To print the address of ALX School in the format "972 Mission St., San
 Francisco, CA 94103" where *street*, *city* and *state* are pointers to strings:
 
 Example `main.c`:
 ```
-#include "holberton.h"
+#include "main.h"
 
 int main(void)
 {
@@ -440,7 +440,7 @@ all numbers printed with a minimum precision of two digits:
 
 Example `main.c`:
 ```
-#include "holberton.h"
+#include "main.h"
 
 int main(void)
 {
